@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://smail1983.github.io/pulsemonitoure.com/sitemap.xml
