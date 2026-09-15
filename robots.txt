@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /private/
+Disallow: /admin/
+Disallow: /*.json$
 
-Sitemap: https://smail1983.github.io/pulsemonitoure.com/sitemap.xml
+Sitemap: https://pulsemonitoure.com/sitemap.xml
